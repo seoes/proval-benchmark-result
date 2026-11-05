@@ -1,0 +1,429 @@
+{
+  "type": "batch",
+  "batchId": "full-790",
+  "profileName": "full",
+  "repeatCount": 3,
+  "seed": 42,
+  "caseIdList": [
+    "cal_dot_com__8087",
+    "cal_dot_com__10600",
+    "cal_dot_com__10967",
+    "cal_dot_com__22345",
+    "cal_dot_com__7232",
+    "cal_dot_com__8330",
+    "cal_dot_com__11059",
+    "cal_dot_com__14943",
+    "cal_dot_com__14740",
+    "cal_dot_com__22532",
+    "discourse__1",
+    "discourse__2",
+    "discourse__3",
+    "discourse__4",
+    "discourse__5",
+    "discourse__6",
+    "discourse__7",
+    "discourse__8",
+    "discourse__9",
+    "discourse__10",
+    "grafana__79265",
+    "grafana__103633",
+    "grafana__76186",
+    "grafana__107534",
+    "grafana__106778",
+    "grafana__90045",
+    "grafana__80329",
+    "grafana__90939",
+    "grafana__94942",
+    "grafana__97529",
+    "keycloak__1",
+    "keycloak__32918",
+    "keycloak__33832",
+    "keycloak__36882",
+    "keycloak__36880",
+    "keycloak__37038",
+    "keycloak__37429",
+    "keycloak__37634",
+    "keycloak__38446",
+    "keycloak__40940",
+    "sentry__1",
+    "sentry__2",
+    "sentry__3",
+    "sentry__67876",
+    "sentry__5",
+    "sentry__93824",
+    "sentry__77754",
+    "sentry__80528",
+    "sentry__95633",
+    "sentry__80168"
+  ],
+  "setting": {
+    "language": "English",
+    "inlineReview": true,
+    "userPrompt": "",
+    "reasoningEffort": null,
+    "llmConcurrency": 4,
+    "timeoutSecond": 600
+  },
+  "manifestHash": "0ede2551a94dc4144cd0d5bc6e4141676c7433f5b5f09d3697d127884b697ba6",
+  "profileHash": "39b90221e9c397ff89baeb78437e77e6112c4348de6d933f7bc2b4558b7b2e32",
+  "sourceStateHash": "e386d1f5e5163f0d8b0aeed23f0461bd192a4e2f6e5a9d177209cffce8b21de5",
+  "bunVersion": "1.3.11",
+  "modelName": "muse-spark-1.3-contributor",
+  "modelProvider": "openai",
+  "caseInfoList": [
+    {
+      "caseId": "cal_dot_com__8087",
+      "project": "cal_dot_com",
+      "addedLineCount": 82,
+      "deletedLineCount": 107,
+      "changedFileCount": 12
+    },
+    {
+      "caseId": "cal_dot_com__10600",
+      "project": "cal_dot_com",
+      "addedLineCount": 280,
+      "deletedLineCount": 36,
+      "changedFileCount": 16
+    },
+    {
+      "caseId": "cal_dot_com__10967",
+      "project": "cal_dot_com",
+      "addedLineCount": 368,
+      "deletedLineCount": 216,
+      "changedFileCount": 22
+    },
+    {
+      "caseId": "cal_dot_com__22345",
+      "project": "cal_dot_com",
+      "addedLineCount": 114,
+      "deletedLineCount": 231,
+      "changedFileCount": 2
+    },
+    {
+      "caseId": "cal_dot_com__7232",
+      "project": "cal_dot_com",
+      "addedLineCount": 241,
+      "deletedLineCount": 203,
+      "changedFileCount": 10
+    },
+    {
+      "caseId": "cal_dot_com__8330",
+      "project": "cal_dot_com",
+      "addedLineCount": 111,
+      "deletedLineCount": 10,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "cal_dot_com__11059",
+      "project": "cal_dot_com",
+      "addedLineCount": 375,
+      "deletedLineCount": 119,
+      "changedFileCount": 40
+    },
+    {
+      "caseId": "cal_dot_com__14943",
+      "project": "cal_dot_com",
+      "addedLineCount": 38,
+      "deletedLineCount": 6,
+      "changedFileCount": 3
+    },
+    {
+      "caseId": "cal_dot_com__14740",
+      "project": "cal_dot_com",
+      "addedLineCount": 555,
+      "deletedLineCount": 0,
+      "changedFileCount": 15
+    },
+    {
+      "caseId": "cal_dot_com__22532",
+      "project": "cal_dot_com",
+      "addedLineCount": 379,
+      "deletedLineCount": 31,
+      "changedFileCount": 17
+    },
+    {
+      "caseId": "discourse__1",
+      "project": "discourse",
+      "addedLineCount": 20,
+      "deletedLineCount": 12,
+      "changedFileCount": 3
+    },
+    {
+      "caseId": "discourse__2",
+      "project": "discourse",
+      "addedLineCount": 156,
+      "deletedLineCount": 69,
+      "changedFileCount": 18
+    },
+    {
+      "caseId": "discourse__3",
+      "project": "discourse",
+      "addedLineCount": 155,
+      "deletedLineCount": 23,
+      "changedFileCount": 10
+    },
+    {
+      "caseId": "discourse__4",
+      "project": "discourse",
+      "addedLineCount": 653,
+      "deletedLineCount": 13,
+      "changedFileCount": 28
+    },
+    {
+      "caseId": "discourse__5",
+      "project": "discourse",
+      "addedLineCount": 54,
+      "deletedLineCount": 13,
+      "changedFileCount": 5
+    },
+    {
+      "caseId": "discourse__6",
+      "project": "discourse",
+      "addedLineCount": 44,
+      "deletedLineCount": 12,
+      "changedFileCount": 5
+    },
+    {
+      "caseId": "discourse__7",
+      "project": "discourse",
+      "addedLineCount": 115,
+      "deletedLineCount": 115,
+      "changedFileCount": 32
+    },
+    {
+      "caseId": "discourse__8",
+      "project": "discourse",
+      "addedLineCount": 389,
+      "deletedLineCount": 283,
+      "changedFileCount": 16
+    },
+    {
+      "caseId": "discourse__9",
+      "project": "discourse",
+      "addedLineCount": 31,
+      "deletedLineCount": 15,
+      "changedFileCount": 7
+    },
+    {
+      "caseId": "discourse__10",
+      "project": "discourse",
+      "addedLineCount": 449,
+      "deletedLineCount": 127,
+      "changedFileCount": 36
+    },
+    {
+      "caseId": "grafana__79265",
+      "project": "grafana",
+      "addedLineCount": 105,
+      "deletedLineCount": 37,
+      "changedFileCount": 11
+    },
+    {
+      "caseId": "grafana__103633",
+      "project": "grafana",
+      "addedLineCount": 240,
+      "deletedLineCount": 33,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "grafana__76186",
+      "project": "grafana",
+      "addedLineCount": 137,
+      "deletedLineCount": 78,
+      "changedFileCount": 8
+    },
+    {
+      "caseId": "grafana__107534",
+      "project": "grafana",
+      "addedLineCount": 48,
+      "deletedLineCount": 15,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "grafana__106778",
+      "project": "grafana",
+      "addedLineCount": 542,
+      "deletedLineCount": 418,
+      "changedFileCount": 14
+    },
+    {
+      "caseId": "grafana__90045",
+      "project": "grafana",
+      "addedLineCount": 524,
+      "deletedLineCount": 131,
+      "changedFileCount": 5
+    },
+    {
+      "caseId": "grafana__80329",
+      "project": "grafana",
+      "addedLineCount": 199,
+      "deletedLineCount": 62,
+      "changedFileCount": 3
+    },
+    {
+      "caseId": "grafana__90939",
+      "project": "grafana",
+      "addedLineCount": 13,
+      "deletedLineCount": 3,
+      "changedFileCount": 1
+    },
+    {
+      "caseId": "grafana__94942",
+      "project": "grafana",
+      "addedLineCount": 47,
+      "deletedLineCount": 34,
+      "changedFileCount": 7
+    },
+    {
+      "caseId": "grafana__97529",
+      "project": "grafana",
+      "addedLineCount": 25,
+      "deletedLineCount": 57,
+      "changedFileCount": 5
+    },
+    {
+      "caseId": "keycloak__1",
+      "project": "keycloak",
+      "addedLineCount": 407,
+      "deletedLineCount": 24,
+      "changedFileCount": 9
+    },
+    {
+      "caseId": "keycloak__32918",
+      "project": "keycloak",
+      "addedLineCount": 268,
+      "deletedLineCount": 3,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "keycloak__33832",
+      "project": "keycloak",
+      "addedLineCount": 673,
+      "deletedLineCount": 9,
+      "changedFileCount": 12
+    },
+    {
+      "caseId": "keycloak__36882",
+      "project": "keycloak",
+      "addedLineCount": 70,
+      "deletedLineCount": 18,
+      "changedFileCount": 11
+    },
+    {
+      "caseId": "keycloak__36880",
+      "project": "keycloak",
+      "addedLineCount": 866,
+      "deletedLineCount": 138,
+      "changedFileCount": 10
+    },
+    {
+      "caseId": "keycloak__37038",
+      "project": "keycloak",
+      "addedLineCount": 831,
+      "deletedLineCount": 126,
+      "changedFileCount": 19
+    },
+    {
+      "caseId": "keycloak__37429",
+      "project": "keycloak",
+      "addedLineCount": 343,
+      "deletedLineCount": 105,
+      "changedFileCount": 48
+    },
+    {
+      "caseId": "keycloak__37634",
+      "project": "keycloak",
+      "addedLineCount": 722,
+      "deletedLineCount": 26,
+      "changedFileCount": 28
+    },
+    {
+      "caseId": "keycloak__38446",
+      "project": "keycloak",
+      "addedLineCount": 256,
+      "deletedLineCount": 31,
+      "changedFileCount": 8
+    },
+    {
+      "caseId": "keycloak__40940",
+      "project": "keycloak",
+      "addedLineCount": 51,
+      "deletedLineCount": 11,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "sentry__1",
+      "project": "sentry",
+      "addedLineCount": 128,
+      "deletedLineCount": 10,
+      "changedFileCount": 3
+    },
+    {
+      "caseId": "sentry__2",
+      "project": "sentry",
+      "addedLineCount": 183,
+      "deletedLineCount": 29,
+      "changedFileCount": 9
+    },
+    {
+      "caseId": "sentry__3",
+      "project": "sentry",
+      "addedLineCount": 480,
+      "deletedLineCount": 6,
+      "changedFileCount": 8
+    },
+    {
+      "caseId": "sentry__67876",
+      "project": "sentry",
+      "addedLineCount": 247,
+      "deletedLineCount": 50,
+      "changedFileCount": 3
+    },
+    {
+      "caseId": "sentry__5",
+      "project": "sentry",
+      "addedLineCount": 2312,
+      "deletedLineCount": 981,
+      "changedFileCount": 106
+    },
+    {
+      "caseId": "sentry__93824",
+      "project": "sentry",
+      "addedLineCount": 199,
+      "deletedLineCount": 50,
+      "changedFileCount": 6
+    },
+    {
+      "caseId": "sentry__77754",
+      "project": "sentry",
+      "addedLineCount": 212,
+      "deletedLineCount": 15,
+      "changedFileCount": 7
+    },
+    {
+      "caseId": "sentry__80528",
+      "project": "sentry",
+      "addedLineCount": 289,
+      "deletedLineCount": 264,
+      "changedFileCount": 4
+    },
+    {
+      "caseId": "sentry__95633",
+      "project": "sentry",
+      "addedLineCount": 1276,
+      "deletedLineCount": 6,
+      "changedFileCount": 7
+    },
+    {
+      "caseId": "sentry__80168",
+      "project": "sentry",
+      "addedLineCount": 249,
+      "deletedLineCount": 151,
+      "changedFileCount": 4
+    }
+  ],
+  "startedAt": "2026-11-02T12:06:47.127Z",
+  "provalCommit": "05017bf5ce9e8e1feb950c244e48b7de30de17ff",
+  "isDirty": false,
+  "datasetCommit": "e616e849755441da38f18bf3adba2c9583b03803"
+}
